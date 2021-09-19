@@ -1,34 +1,85 @@
 {
 "data":
 [
-{
-"id":7,
-"email":"michael.lawson@reqres.in",
-"first_name":"Michael",
-"last_name":"Lawson",
-"avatar":"https://reqres.in/img/faces/7-image.jpg"
-},
-{
-"id":8,"email":"lindsay.ferguson@reqres.in",
-"first_name":"Lindsay",
-"last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"
-},
-{
-"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke",
-"avatar":"https://reqres.in/img/faces/9-image.jpg"
-},
-{
-"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields",
-"avatar":"https://reqres.in/img/faces/10-image.jpg"
-},
-{
-"id":11,"email":"george.edwards@reqres.in",
-"first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"
-},
-{
-"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell",
-"avatar":"https://reqres.in/img/faces/12-image.jpg"
-}
-]
+        {
+    "userId": 1,
+    "id": 1,
+    "title": "delectus aut autem",
+    "city": "Wisokyburgh",
+    "website": "hildegard.org",
+    "completed": false
+  },
+  {
+    "userId": 2,
+    "id": 2,
+    "title": "quis ut nam facilis et officia qui",
+     "city": "McKenziehaven",
+     "website": "anastasia.net",
+    "completed": false
+  },
+  {
+    "userId": 3,
+    "id": 3,
+    "title": "fugiat veniam minus",
+    "city": "South Elvis",
+    "website": "ramiro.info",
+    "completed": false
+  },
+  {
+    "userId": 4,
+    "id": 4,
+    "title": "et porro tempora",
+    "city": "Roscoeview",
+    "website": "kale.biz",
+    "completed": true
+  },
+  {
+    "userId": 5,
+    "id": 5,
+    "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+    "city": "South Christy",
+    "website": "demarco.info",
+    "completed": false
+  },
+  {
+    "userId": 6,
+    "id": 6,
+    "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+    "completed": false,
+    "website": "ola.org",
+    "city": "Gwenborough"
+  },
+  {
+    "userId": 7,
+    "id": 7,
+    "title": "illo expedita consequatur quia in",
+     "city": "Howemouth",
+     "website": "elvis.io",
+    "completed": false
+  },
+  {
+    "userId": 8,
+    "id": 8,
+    "title": "quo adipisci enim quam ut ab",
+    "website": "conrad.com",
+    "completed": true
+  },
+  {
+    "userId": 9,
+    "id": 9,
+    "title": "molestiae perspiciatis ipsa",
+    "website": "jacynthe.com",
+    "city": "Aliyaview",
+    "completed": false
+  },
+  {
+    "userId": 10,
+    "id": 10,
+    "title": "illo est ratione doloremque quia maiores aut",
+    "city": "Bartholomebury",
+    "website": "ambrose.net",
+    "completed": true
+  }
+    ]
 }
 
